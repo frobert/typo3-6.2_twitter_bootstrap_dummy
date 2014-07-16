@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="sl" type="array">
+      <label index="widget.pagination.previous">prejšnji</label>
+      <label index="widget.pagination.next">naslednji</label>
+      <label index="widget.pagination.first">prvi</label>
+      <label index="widget.pagination.last">zadnji</label>
+      <label index="widget.pagination.records">Zapisi</label>
+      <label index="widget.pagination.page">Stran</label>
+      <label index="widget.pagination.refresh">Osveži</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

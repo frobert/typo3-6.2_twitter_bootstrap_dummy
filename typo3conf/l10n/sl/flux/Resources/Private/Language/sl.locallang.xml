@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="sl" type="array">
+      <label index="tt_content.tx_flux_container"/>
+      <label index="tt_content.tx_flux_parent"/>
+      <label index="tt_content.tx_flux_column"/>
+      <label index="tt_content.tx_flux_options"/>
+      <label index="flux.clearValue"/>
+      <label index="reference"/>
+      <label index="object.image"/>
+      <label index="object.image.title"/>
+      <label index="object.image.caption"/>
+      <label index="object.image.file"/>
+      <label index="object.image.width"/>
+      <label index="object.image.height"/>
+      <label index="object.video"/>
+      <label index="object.video.title"/>
+      <label index="object.video.caption"/>
+      <label index="object.video.caption"/>
+      <label index="object.video.file"/>
+      <label index="object.pages"/>
+      <label index="object.pages.records"/>
+      <label index="object.content"/>
+      <label index="object.content.records"/>
+      <label index="object.file"/>
+      <label index="object.file.title"/>
+      <label index="object.file.caption"/>
+      <label index="object.file.file"/>
+      <label index="user.no_fields"/>
+      <label index="user.no_selection"/>
+      <label index="user.no_template"/>
+    </languageKey>
+  </data>
+</T3locallangExt>

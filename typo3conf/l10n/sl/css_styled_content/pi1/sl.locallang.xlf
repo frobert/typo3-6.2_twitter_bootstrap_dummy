@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2011-10-17T20:22:32Z" product-name="css_styled_content" target-language="sl">
+    <header/>
+    <body>
+      <trans-unit id="label.toTop" xml:space="preserve" approved="yes">
+        <source>To top</source>
+      <target state="translated">Na vrh</target></trans-unit>
+      <trans-unit id="uploads.icon" xml:space="preserve" approved="yes">
+        <source>File link icon for %s</source>
+      <target state="translated">Povezava datoteke ikone za %s</target></trans-unit>
+      <trans-unit id="login.username" xml:space="preserve" approved="yes">
+        <source>Username:</source>
+      <target state="translated">Uporabniško ime:</target></trans-unit>
+      <trans-unit id="login.password" xml:space="preserve" approved="yes">
+        <source>Password:</source>
+      <target state="translated">Geslo:</target></trans-unit>
+      <trans-unit id="login.login" xml:space="preserve" approved="yes">
+        <source>Login</source>
+      <target state="translated">Prijava</target></trans-unit>
+      <trans-unit id="login.logout" xml:space="preserve" approved="yes">
+        <source>Logout</source>
+      <target state="translated">Odjava</target></trans-unit>
+      <trans-unit id="search.emptySearch" xml:space="preserve" approved="yes">
+        <source>Sorry, your search was empty!</source>
+      <target state="translated">Oprostite, iskanje ni vrnilo rezultatov!</target></trans-unit>
+      <trans-unit id="search.resultRange" xml:space="preserve" approved="yes">
+        <source>Searchresult: ###RANGELOW###-###RANGEHIGH### of ###TOTAL###</source>
+      <target state="translated">Rezultati iskanja: ###RANGELOW###-###RANGEHIGH### od ###TOTAL###</target></trans-unit>
+      <trans-unit id="search.searchResultNext" xml:space="preserve" approved="yes">
+        <source>Next</source>
+      <target state="translated">Naslednji</target></trans-unit>
+      <trans-unit id="search.searchResultPrev" xml:space="preserve" approved="yes">
+        <source>Prev</source>
+      <target state="translated">Prejšnji</target></trans-unit>
+      <trans-unit id="search.searchWord" xml:space="preserve" approved="yes">
+        <source>Searchword:</source>
+      <target state="translated">Iskana beseda:</target></trans-unit>
+      <trans-unit id="search.searchIn" xml:space="preserve" approved="yes">
+        <source>Search in:</source>
+      <target state="translated">Išči v:</target></trans-unit>
+      <trans-unit id="search.headersKeywords" xml:space="preserve" approved="yes">
+        <source>Headers and keywords</source>
+      <target state="translated">Naslovih in ključnih besedah</target></trans-unit>
+      <trans-unit id="search.pageContent" xml:space="preserve" approved="yes">
+        <source>Page content</source>
+      <target state="translated">Vsebini strani</target></trans-unit>
+      <trans-unit id="search.searchButton" xml:space="preserve" approved="yes">
+        <source>Search now!</source>
+      <target state="translated">Poišči!</target></trans-unit>
+      <trans-unit id="menu.bypassNavigation" xml:space="preserve" approved="yes">
+        <source>Skip navigation block</source>
+      <target state="translated">Preskoči navigacijsko skupino</target></trans-unit>
+      <trans-unit id="eIcon.html" xml:space="preserve" approved="yes">
+        <source>Edit pure HTML content</source>
+      <target state="translated">Uredi HTML vsebino</target></trans-unit>
+      <trans-unit id="eIcon.header" xml:space="preserve" approved="yes">
+        <source>Edit header</source>
+      <target state="translated">Uredi naslov</target></trans-unit>
+      <trans-unit id="eIcon.subheader" xml:space="preserve" approved="yes">
+        <source>Edit subheader</source>
+      <target state="translated">Uredi podnaslov</target></trans-unit>
+      <trans-unit id="eIcon.bodytext" xml:space="preserve" approved="yes">
+        <source>Edit bodytext</source>
+      <target state="translated">Uredi telo besedila</target></trans-unit>
+      <trans-unit id="eIcon.images" xml:space="preserve" approved="yes">
+        <source>Edit images</source>
+      <target state="translated">Uredi slike</target></trans-unit>
+      <trans-unit id="eIcon.caption" xml:space="preserve" approved="yes">
+        <source>Edit image caption</source>
+      <target state="translated">Uredi podnapis slike</target></trans-unit>
+      <trans-unit id="eIcon.caption_position" xml:space="preserve">
+        <source>Edit image caption alignment</source>
+      <target></target></trans-unit>
+      <trans-unit id="eIcon.bullets" xml:space="preserve" approved="yes">
+        <source>Edit bullet list</source>
+      <target state="translated">Uredi neoštevilčen seznam</target></trans-unit>
+      <trans-unit id="eIcon.table" xml:space="preserve" approved="yes">
+        <source>Edit table</source>
+      <target state="translated">Uredi tabelo</target></trans-unit>
+      <trans-unit id="eIcon.filelist" xml:space="preserve" approved="yes">
+        <source>Edit file list</source>
+      <target state="translated">Uredi seznam datotek</target></trans-unit>
+      <trans-unit id="eIcon.menuSitemap" xml:space="preserve" approved="yes">
+        <source>Edit menu / sitemap</source>
+      <target state="translated">Uredi meni / kazalo strani</target></trans-unit>
+      <trans-unit id="eIcon.recordList" xml:space="preserve" approved="yes">
+        <source>Edit recordlist</source>
+      <target state="translated">Uredi seznam zapisov</target></trans-unit>
+      <trans-unit id="eIcon.plugin" xml:space="preserve" approved="yes">
+        <source>Change/configure plugin</source>
+      <target state="translated">Spremeni/konfiguriraj vtičnik</target></trans-unit>
+      <trans-unit id="eIcon.multimedia" xml:space="preserve" approved="yes">
+        <source>Edit multimedia element</source>
+      <target state="translated">Uredi multimedijsko vsebino</target></trans-unit>
+      <trans-unit id="eIcon.form" xml:space="preserve" approved="yes">
+        <source>Edit email form</source>
+      <target state="translated">Uredi e-poštni obrazec</target></trans-unit>
+      <trans-unit id="eIcon.search" xml:space="preserve" approved="yes">
+        <source>Edit search element</source>
+      <target state="translated">Uredi iskanje</target></trans-unit>
+      <trans-unit id="eIcon.login" xml:space="preserve" approved="yes">
+        <source>Edit login element</source>
+      <target state="translated">Uredi prijavo</target></trans-unit>
+      <trans-unit id="eIcon.page" xml:space="preserve" approved="yes">
+        <source>Page:</source>
+      <target state="translated">Stran:</target></trans-unit>
+    </body>
+  </file>
+</xliff>

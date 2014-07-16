@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2014-05-05T23:53:24Z" product-name="flux" target-language="sl">
+    <header/>
+    <body>
+      <trans-unit id="tt_content.tx_flux_container" xml:space="preserve">
+        <source>Content Container</source>
+      <target></target></trans-unit>
+      <trans-unit id="tt_content.tx_flux_parent" xml:space="preserve">
+        <source>Parent element</source>
+      <target></target></trans-unit>
+      <trans-unit id="tt_content.tx_flux_column" xml:space="preserve">
+        <source>Content area of parent</source>
+      <target></target></trans-unit>
+      <trans-unit id="tt_content.tx_flux_options" xml:space="preserve">
+        <source>Options</source>
+      <target></target></trans-unit>
+      <trans-unit id="flux.clearValue" xml:space="preserve">
+        <source>Clear value</source>
+      <target></target></trans-unit>
+      <trans-unit id="reference" xml:space="preserve">
+        <source>Reference to content on page '%s' - click to jump to original</source>
+      <target></target></trans-unit>
+      <trans-unit id="object.image" xml:space="preserve">
+        <source>Image</source>
+      <target></target></trans-unit>
+      <trans-unit id="object.image.title" xml:space="preserve">
+        <source>Image title/alt text</source>
+      <target></target></trans-unit>
+      <trans-unit id="object.image.caption" xml:space="preserve">
+        <source>Image caption text</source>
+      <target></target></trans-unit>
+      <trans-unit id="object.image.file" xml:space="preserve">
+        <source>Image file</source>
+      <target></target></trans-unit>
+      <trans-unit id="object.image.width" xml:space="preserve">
+        <source>Image width</source>
+      <target></target></trans-unit>
+      <trans-unit id="object.image.height" xml:space="preserve">
+        <source>Image height</source>
+      <target></target></trans-unit>
+      <trans-unit id="object.video" xml:space="preserve">
+        <source>Video</source>
+      <target></target></trans-unit>
+      <trans-unit id="object.video.title" xml:space="preserve">
+        <source>Title</source>
+      <target></target></trans-unit>
+      <trans-unit id="object.video.caption" xml:space="preserve">
+        <source>Caption/description</source>
+      </trans-unit>
+      <trans-unit id="object.video.caption" xml:space="preserve">
+        <source>Image caption text</source>
+      <target></target></trans-unit>
+      <trans-unit id="object.video.file" xml:space="preserve">
+        <source>Image file</source>
+      <target></target></trans-unit>
+      <trans-unit id="object.pages" xml:space="preserve">
+        <source>Pages</source>
+      <target></target></trans-unit>
+      <trans-unit id="object.pages.records" xml:space="preserve">
+        <source>Pages</source>
+      <target></target></trans-unit>
+      <trans-unit id="object.content" xml:space="preserve">
+        <source>Content</source>
+      <target></target></trans-unit>
+      <trans-unit id="object.content.records" xml:space="preserve">
+        <source>Content elements</source>
+      <target></target></trans-unit>
+      <trans-unit id="object.file" xml:space="preserve">
+        <source>File</source>
+      <target></target></trans-unit>
+      <trans-unit id="object.file.title" xml:space="preserve">
+        <source>Title</source>
+      <target></target></trans-unit>
+      <trans-unit id="object.file.caption" xml:space="preserve">
+        <source>Caption/description text</source>
+      <target></target></trans-unit>
+      <trans-unit id="object.file.file" xml:space="preserve">
+        <source>File</source>
+      <target></target></trans-unit>
+      <trans-unit id="user.no_fields" xml:space="preserve">
+        <source>No fields found in form</source>
+      <target></target></trans-unit>
+      <trans-unit id="user.no_selection" xml:space="preserve">
+        <source>No form selected/configured (enabling Flux debug will produce more information)</source>
+      <target></target></trans-unit>
+      <trans-unit id="user.no_template" xml:space="preserve">
+        <source>No FlexForm source selected. This is usually caused by incorrect template paths being returned by a
+			ConfigurationProvider - in the case of FED/FluidContent/FluidPages this can also be caused by not having selected a page template
+			or Fluid content element type, which can be considered a safe "error" that is only reported because debug mode is enabled in Flux.
+			The parameters which lead to this error were:</source>
+      <target></target></trans-unit>
+    </body>
+  </file>
+</xliff>

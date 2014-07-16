@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="sl" type="array">
+      <label index="fe_users.tx_extbase_type"/>
+      <label index="fe_users.tx_extbase_type.0"/>
+      <label index="fe_users.tx_extbase_type.Tx_Extbase_Domain_Model_FrontendUser"/>
+      <label index="fe_groups.tx_extbase_type"/>
+      <label index="fe_groups.tx_extbase_type.0"/>
+      <label index="fe_groups.tx_extbase_type.Tx_Extbase_Domain_Model_FrontendUserGroup"/>
+      <label index="task.action"/>
+      <label index="task.name"/>
+      <label index="task.description"/>
+    </languageKey>
+  </data>
+</T3locallangExt>

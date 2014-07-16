@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="sl" type="array">
+      <label index="about">O</label>
+      <label index="and">in</label>
+      <label index="ascending">Naraščajoče</label>
+      <label index="back">Nazaj</label>
+      <label index="byteSizeUnits"> B| KB| MB| GB</label>
+      <label index="cancel">Prekliči</label>
+      <label index="category">Kategorija</label>
+      <label index="close">Zapri</label>
+      <label index="delete">Izbriši</label>
+      <label index="descending">Padajoče</label>
+      <label index="details">Podrobnosti</label>
+      <label index="disable">Onemogoči</label>
+      <label index="disabled">Onemogočeno</label>
+      <label index="down">Dol</label>
+      <label index="download">Prenos</label>
+      <label index="edit">Uredi</label>
+      <label index="editField">Uredi polje</label>
+      <label index="editFile">Uredi datoteko</label>
+      <label index="enable">Omogoči</label>
+      <label index="enabled">Omogočeno</label>
+      <label index="file">Datoteka</label>
+      <label index="files">Datoteke</label>
+      <label index="folder">Mapa</label>
+      <label index="first">Prvi</label>
+      <label index="from">Od</label>
+      <label index="go">Pojdi</label>
+      <label index="goTo">Pojdi na</label>
+      <label index="help">Pomoč</label>
+      <label index="item">Element</label>
+      <label index="items">Elementi</label>
+      <label index="last">Zadnji</label>
+      <label index="left">Levo</label>
+      <label index="login">Prijava</label>
+      <label index="logout">Odjava</label>
+      <label index="more">Več</label>
+      <label index="move">Premakni</label>
+      <label index="new">Novo</label>
+      <label index="next">Naslednji</label>
+      <label index="no">Ne</label>
+      <label index="ok">OK</label>
+      <label index="open">Odpri</label>
+      <label index="page">Stran</label>
+      <label index="pages">Strani</label>
+      <label index="previous">Prejšnji</label>
+      <label index="print">Natisni</label>
+      <label index="reload">Ponovno naloži</label>
+      <label index="right">Desno</label>
+      <label index="save">Shrani</label>
+      <label index="saveAndClose">Shrani in zapri</label>
+      <label index="saveAndCloseDoc">Shrani in zapri dokument</label>
+      <label index="saveAndCreateNewDoc">Shrani in ustvari nov dokument</label>
+      <label index="saveAndViewPage">Shrani in poglej stran</label>
+      <label index="search">Išči</label>
+      <label index="send">Pošlji</label>
+      <label index="start">Začni</label>
+      <label index="stop">Ustavi</label>
+      <label index="submit">Predloži</label>
+      <label index="to">K</label>
+      <label index="tsRef">TSref referenca</label>
+      <label index="up">Gor</label>
+      <label index="upload">Naloži</label>
+      <label index="user">Uporabnik</label>
+      <label index="users">Uporabniki</label>
+      <label index="view">Poglej</label>
+      <label index="yes">Da</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

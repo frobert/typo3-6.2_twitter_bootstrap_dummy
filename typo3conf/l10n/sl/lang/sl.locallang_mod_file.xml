@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="sl" type="array">
+      <label index="mlang_labels_tablabel">Administracija datotek na strežniku</label>
+      <label index="mlang_tabs_tab">Datoteke</label>
+      <label index="sys_file_storage.isOffline">brez povezave</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

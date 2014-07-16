@@ -1,0 +1,16 @@
+page {
+  includeJSFooter {
+  	//vobi_fce = EXT:vobi_fce/Resources/Public/js/vobi_fce.js
+  }
+
+  includeCSS {
+    //vobi_fce = EXT:vobi_fce/Resources/Public/css/vobi_fce.css
+  }
+}
+
+
+plugin.tx_fed.fce.vobi_fce {
+    templateRootPath = EXT:vobi_fce/Resources/Private/Elements/
+    partialRootPath = EXT:vobi_fce/Resources/Private/Partials/
+    layoutRootPath = EXT:vobi_fce/Resources/Private/Layouts/
+}

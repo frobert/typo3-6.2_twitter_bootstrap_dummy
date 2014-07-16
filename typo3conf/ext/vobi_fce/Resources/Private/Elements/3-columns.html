@@ -1,0 +1,52 @@
+{namespace flux=Tx_Flux_ViewHelpers}
+
+<f:layout name="Content" />
+<div xmlns="http://www.w3.org/1999/xhtml" lang="en"
+     xmlns:flux="http://fedext.net/ns/flux/ViewHelpers"
+     xmlns:f="http://typo3.org/ns/fluid/ViewHelpers">
+
+  <f:section name="Configuration">
+    <flux:flexform id="3-columns" label="3 columns FCE" icon="{f:uri.resource(path:'Icons/3-columns.png')}" description="3 columnt flexible content element">
+      <flux:flexform.grid>
+        <flux:flexform.grid.row>
+
+          <flux:flexform.grid.column style="width: 30%">
+            <flux:flexform.content name="3-columns-column-1" label="Column 1" />
+          </flux:flexform.grid.column>
+          
+          <flux:flexform.grid.column style="width: 30%">
+            <flux:flexform.content name="3-columns-column-2" label="Column 2" />
+          </flux:flexform.grid.column>
+
+          <flux:flexform.grid.column style="width: 30%">
+            <flux:flexform.content name="3-columns-column-3" label="Column 3" />
+          </flux:flexform.grid.column>
+        
+        </flux:flexform.grid.row>
+      </flux:flexform.grid>
+    </flux:flexform>
+  </f:section>
+
+  <f:section name="Preview">
+    <flux:widget.grid />
+  </f:section>
+
+  <f:section name="Main">
+
+    <div class="row">
+      <div class="col-lg-4">
+        <f:format.raw><flux:flexform.renderContent area="3-columns-column-1" /></f:format.raw>
+      </div>
+      
+      <div class="col-lg-4">
+        <f:format.raw><flux:flexform.renderContent area="3-columns-column-2" /></f:format.raw>
+      </div>
+
+      <div class="col-lg-4">
+        <f:format.raw><flux:flexform.renderContent area="3-columns-column-3" /></f:format.raw>
+      </div>
+    </div>
+
+  </f:section>
+
+</div>

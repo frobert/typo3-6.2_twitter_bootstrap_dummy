@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="sl" type="array">
+      <label index="tx_openid_openid.description"/>
+      <label index="tx_openid_openid.details"/>
+      <label index="tx_openid_openid.seeAlso"/>
+      <label index="tx_openid_change_allowed.description"/>
+    </languageKey>
+  </data>
+</T3locallangExt>

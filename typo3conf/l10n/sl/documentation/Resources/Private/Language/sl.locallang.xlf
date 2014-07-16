@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="1.0">
+  <file source-language="en" datatype="plaintext" original="messages" date="2013-07-04T16:35:47Z" product-name="documentation" target-language="sl">
+    <header/>
+    <body>
+      <trans-unit id="documentation_manager" xml:space="preserve">
+        <source>Documentation Manager</source>
+      <target></target></trans-unit>
+      <trans-unit id="documentation.title" xml:space="preserve">
+        <source>Title</source>
+      <target></target></trans-unit>
+      <trans-unit id="documentation.type" xml:space="preserve">
+        <source>Type</source>
+      <target></target></trans-unit>
+      <trans-unit id="documentation.shortcut" xml:space="preserve">
+        <source>Extension key</source>
+      <target></target></trans-unit>
+      <trans-unit id="documentation.actions" xml:space="preserve">
+        <source>Actions</source>
+      <target></target></trans-unit>
+      <trans-unit id="documentation.actions.download" xml:space="preserve">
+        <source>Download document</source>
+      <target></target></trans-unit>
+      <trans-unit id="tx_documentation_domain_model_document" xml:space="preserve">
+        <source>Document</source>
+      <target></target></trans-unit>
+      <trans-unit id="tx_documentation_domain_model_document.package_key" xml:space="preserve">
+        <source>Package Key</source>
+      <target></target></trans-unit>
+      <trans-unit id="tx_documentation_domain_model_document.extension_key" xml:space="preserve">
+        <source>Extension Key</source>
+      <target></target></trans-unit>
+      <trans-unit id="tx_documentation_domain_model_document.title" xml:space="preserve">
+        <source>Title</source>
+      <target></target></trans-unit>
+      <trans-unit id="tx_documentation_domain_model_document.version" xml:space="preserve">
+        <source>Version</source>
+      <target></target></trans-unit>
+      <trans-unit id="tx_documentation_domain_model_document.translations" xml:space="preserve">
+        <source>Translations</source>
+      <target></target></trans-unit>
+      <trans-unit id="tx_documentation_domain_model_documenttranslation" xml:space="preserve">
+        <source>Document Translation</source>
+      <target></target></trans-unit>
+      <trans-unit id="tx_documentation_domain_model_documenttranslation.language" xml:space="preserve">
+        <source>Language</source>
+      <target></target></trans-unit>
+      <trans-unit id="tx_documentation_domain_model_documenttranslation.title" xml:space="preserve">
+        <source>Title</source>
+      <target></target></trans-unit>
+      <trans-unit id="tx_documentation_domain_model_documenttranslation.description" xml:space="preserve">
+        <source>Description</source>
+      <target></target></trans-unit>
+      <trans-unit id="tx_documentation_domain_model_documenttranslation.actions" xml:space="preserve">
+        <source>Actions</source>
+      <target></target></trans-unit>
+      <trans-unit id="tx_documentation_domain_model_documentformat" xml:space="preserve">
+        <source>Document Format</source>
+      <target></target></trans-unit>
+      <trans-unit id="tx_documentation_domain_model_documentformat.format" xml:space="preserve">
+        <source>Format</source>
+      <target></target></trans-unit>
+      <trans-unit id="tx_documentation_domain_model_documentformat.path" xml:space="preserve">
+        <source>Path</source>
+      <target></target></trans-unit>
+      <trans-unit id="tx_documentation_domain_model_documentformat.format.title" xml:space="preserve">
+        <source>Show documentation as %s</source>
+      <target></target></trans-unit>
+      <trans-unit id="showDocumentation" xml:space="preserve">
+        <source>Show Documentation</source>
+      <target></target></trans-unit>
+      <trans-unit id="downloadDocumentation" xml:space="preserve">
+        <source>Download Documentation</source>
+      <target></target></trans-unit>
+      <trans-unit id="searchTemplate.submitButton" xml:space="preserve">
+        <source>Go</source>
+      <target></target></trans-unit>
+      <trans-unit id="downloadSucceeded" xml:space="preserve">
+        <source>The rendered documentation was downloaded successfully.</source>
+      <target></target></trans-unit>
+      <trans-unit id="downloadFailed" xml:space="preserve">
+        <source>Download failed</source>
+      <target></target></trans-unit>
+      <trans-unit id="downloadFailedNoArchive" xml:space="preserve">
+        <source>No rendered documentation archive could be found on docs.typo3.org.</source>
+      <target></target></trans-unit>
+      <trans-unit id="downloadFailedDetails" xml:space="preserve">
+        <source>The documentation for "%s" could not be downloaded, because of the following error: %s (%d).</source>
+      <target></target></trans-unit>
+    </body>
+  </file>
+</xliff>

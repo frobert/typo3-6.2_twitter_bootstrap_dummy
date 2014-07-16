@@ -1,0 +1,45 @@
+{
+    "modules": [
+
+    ],
+    "properties": {
+        "backendModules": [
+
+        ],
+        "description": "",
+        "emConf": {
+            "category": "templates",
+            "custom_category": "",
+            "dependsOn": "typo3 => 6.2\n",
+            "disableLocalization": true,
+            "disableVersioning": false,
+            "sourceLanguage": "en",
+            "state": "stable",
+            "targetVersion": "6.2",
+            "version": "1.0.0"
+        },
+        "extensionKey": "vobi_fce",
+        "name": "Flexible content elements",
+        "originalExtensionKey": "",
+        "persons": [
+            {
+                "company": "VOBI",
+                "email": "robert@vobi.si",
+                "name": "Robert Ferencek",
+                "role": "Developer"
+            }
+        ],
+        "plugins": [
+
+        ],
+        "vendorName": "TYPO3"
+    },
+    "wires": [
+
+    ],
+    "log": {
+        "last_modified": "2014-07-16 07:41",
+        "extension_builder_version": "6.2.0",
+        "be_user": " (1)"
+    }
+}

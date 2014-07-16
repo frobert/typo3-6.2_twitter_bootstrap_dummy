@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="sl" type="array">
+      <label index="username.description"/>
+      <label index="username.syntax"/>
+      <label index="_username.seeAlso"/>
+      <label index="password.description"/>
+      <label index="password.syntax"/>
+      <label index="usergroup.description"/>
+      <label index="usergroup.details"/>
+      <label index="lockToDomain.description"/>
+      <label index="lockToDomain.details"/>
+      <label index="lockToDomain.syntax"/>
+      <label index="_lockToDomain.seeAlso"/>
+      <label index="name.description"/>
+      <label index="address.description"/>
+      <label index="www.description"/>
+      <label index="title.description"/>
+      <label index="company.description"/>
+      <label index="image.description"/>
+      <label index="disable.description"/>
+      <label index="_disable.seeAlso"/>
+      <label index="starttime.description"/>
+      <label index="starttime.syntax"/>
+      <label index="_starttime.seeAlso"/>
+      <label index="endtime.description"/>
+      <label index="endtime.syntax"/>
+      <label index="_endtime.seeAlso"/>
+      <label index="lastlogin.description"/>
+      <label index="TSconfig.description"/>
+      <label index="TSconfig.details"/>
+      <label index="TSconfig.syntax"/>
+      <label index="_TSconfig.seeAlso"/>
+      <label index=".description"/>
+      <label index=".details"/>
+      <label index="_.seeAlso"/>
+      <label index="_.image"/>
+      <label index=".image_descr"/>
+    </languageKey>
+  </data>
+</T3locallangExt>

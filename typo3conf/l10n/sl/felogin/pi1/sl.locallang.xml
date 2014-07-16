@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="sl" type="array">
+      <label index="ll_welcome_header">Uporabniška prijava</label>
+      <label index="ll_welcome_message">Vnesi uporabniško ime in geslo tukaj, da se prijaviš na spletni strani:</label>
+      <label index="ll_logout_header">Odjavil si se.</label>
+      <label index="ll_logout_message">Pravkar si se odjavil iz svoje uporabniške seje na tej spletni strani. Lahko se prijaviš ponovno ali kot drug uporabnik z spodnjim obrazcem.</label>
+      <label index="ll_error_header">Napaka pri prijavi</label>
+      <label index="ll_error_message">Prišlo je do napake pri prijavi. Verjetno nisi vnesel pravilnega uporabniškega imena ali gesla.
+Bodi pozoren da ju vneseš natanko tako kot sta, vključeno z velikimi in malimi črkami.
+Možnost je tudi da imaš onemogočene piškotke v tvojem spletnem brskalniku.</label>
+      <label index="ll_success_header">Uspešna prijava</label>
+      <label index="ll_success_message">Prijavljen si kot '###USER###'</label>
+      <label index="ll_status_header">Trenutni status</label>
+      <label index="ll_status_message">To je tvoj trenutni status:</label>
+      <label index="cookie_warning">Opozorilo: Mogoče nimaš omogočenih piškotkov v tvojem spletnem brskalniku! Če prijavni formular izgine ob tvojem naslednjem kliku, potem omogoči piškotke (ali pa sprejmi piškotke iz te spletne strani) nemudoma!</label>
+      <label index="username">Uporabniško ime:</label>
+      <label index="password">Geslo:</label>
+      <label index="login">Prijava</label>
+      <label index="permalogin">Ostani prijavljen:</label>
+      <label index="logout">Odjava</label>
+      <label index="send_password">Pošlji geslo</label>
+      <label index="reset_password">Ponastavi geslo</label>
+      <label index="ll_change_password_header">Spremeni geslo</label>
+      <label index="ll_change_password_message">Prosim vnesi svoje geslo dvakrat. Geslo mora biti dolgo najmanj %s znakov.</label>
+      <label index="ll_change_password_nolinkprefix_message">Napaka: predpona za povezavo ne obstaja. Prosim nastavi eno izmed sledečih v tvoji typoscript predlogi:plugin.tx_felogin_pi1.feloginBaseURL = http://tvojadomena/, config.baseURL = http://tvojadomena/, config.absRelPrefix = http://tvojadomena/</label>
+      <label index="ll_change_password_notvalid_message">Povezava ki si jo kliknil ni veljavna. Prosim ponovi proceduro pozabljenega gesla.</label>
+      <label index="ll_change_password_notequal_message">Gesli se ne ujemata, prosim vnesi svoje novo geslo dvakrat. Geslo mora biti dolgo najmanj %s znakov.</label>
+      <label index="ll_change_password_tooshort_message">Geslo je prekratko. Prosim vnesi svoje novo geslo dvakrat. Geslo mora biti dolgo najmanj %s znakov.</label>
+      <label index="ll_change_password_done_message">Tvoje geslo je bilo uspešno shranjeno. Sedaj se lahko prijaviš z svojim novim geslom.</label>
+      <label index="change_password">Spremeni svoje geslo</label>
+      <label index="newpassword_label1">Vnesi novo geslo</label>
+      <label index="newpassword_label2">Ponovi novo geslo</label>
+      <label index="your_email">Tvoj email:</label>
+      <label index="ll_forgot_header">Pozabljeno geslo?</label>
+      <label index="ll_forgot_email_password">Tvoje geslo
+Pozdravljen %s
+
+Tvoje uporabniško ime je "%s"
+Tvoje geslo je "%s"</label>
+      <label index="ll_forgot_email_nopassword">Tvoje geslo 
+Pozdravljen %s
+
+Nismo našli uporabniškega imena za ta email in ti ne moremo poslati gesla. Verjetno si se zmotil pri vnašanju email naslova (male in velike črke so pomembne) ali pa še se nisi registriral?</label>
+      <label index="ll_forgot_validate_reset_password">Tvoje novo geslo
+Pozrdavljen %s,
+
+ta email je bil poslan kot odgovor na tvojo zahtevo za ponastavitev tvojega gesla. Prosim klikni na spodnjo povezavo.
+%s
+
+Zaradi varnosti je povezava aktivna samo do %s. Če ne obiščeš povezave pred tem, potem boš moral ponoviti zahtevo za ponastavitev gesla.</label>
+      <label index="ll_forgot_message">Prosim vnesi email naslov z katerim si registriral svoj uporabniški račun. Nato pritisni "Pošlji geslo" in tvoje geslo bo nemudoma poslano na tvoj email naslov. Email naslov moraš vnesti pravilno.</label>
+      <label index="ll_forgot_message_emailSent">Tvoje geslo je bilo poslano na %s email naslov</label>
+      <label index="ll_forgot_reset_message">Prosim vnesi tvoje uporabniško ime ali email naslov. Navodila za ponastavitev gesla bomo nemudoma poslali na tvoj email naslov.</label>
+      <label index="ll_forgot_reset_message_emailSent">Email je bil poslan na naslov shranjen v tvojem računu in vsebuje povezave za ponastavitev tvojega gesla. Če ne prejmeš emaila, potem tvoj račun ali email naslov ni bil najden.</label>
+      <label index="ll_forgot_reset_message_error">Tvoj račun ali email naslov ne obstaja.</label>
+      <label index="ll_forgot_header_backToLogin">Vrni se na prijavo</label>
+      <label index="ll_enter_your_data">Uporabniško ime ali email naslov:</label>
+      <label index="noValidRedirectUrl">Povezava "%s" za preusmeritev ni bila sprejeta!</label>
+      <label index="xssAttackDetected">Povezava "%s" je vsebovala XSS napad in je bila očiščena!</label>
+    </languageKey>
+  </data>
+</T3locallangExt>

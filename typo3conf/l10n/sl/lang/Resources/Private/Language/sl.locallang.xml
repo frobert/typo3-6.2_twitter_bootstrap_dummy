@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="sl" type="array">
+      <label index="state.error"/>
+      <label index="state.notAvailable"/>
+      <label index="state.failed"/>
+      <label index="state.upToDate"/>
+      <label index="state.invalid"/>
+      <label index="state.updated"/>
+      <label index="state.checking"/>
+      <label index="state.notChecked"/>
+      <label index="button.update"/>
+      <label index="button.cancel"/>
+      <label index="header.module"/>
+      <label index="header.languageSelectionList"/>
+      <label index="header.translationUpdateList"/>
+      <label index="flashmessage.error"/>
+      <label index="flashmessage.information"/>
+      <label index="flashmessage.success"/>
+      <label index="flashmessage.multipleErrors"/>
+      <label index="flashmessage.updateComplete"/>
+      <label index="flashmessage.canceled"/>
+      <label index="table.language"/>
+      <label index="table.locale"/>
+      <label index="table.extension"/>
+    </languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="sl" type="array">
+      <label index="bigControlPanel"/>
+      <label index="clipBoard">Pokaži odložišče</label>
+      <label index="clip_paste">Prilepi v odložišče</label>
+      <label index="clip_pasteInto">Prilepi v: V to mapo je vstavljena vsebina odložišča</label>
+      <label index="clip_markRecords">Označi vse/Ne označi nič</label>
+      <label index="clip_selectMarked">Prenesi izbor datotek v odložišče</label>
+      <label index="clip_deleteMarked">Izbriši označeno</label>
+      <label index="clip_deleteMarkedWarning">Res želite izbrisati vse označene datoteke iz te mape?</label>
+      <label index="displayThumbs">Prikaži zavihke</label>
+      <label index="c_file">Ime datoteke</label>
+      <label index="c_size">Velikost</label>
+      <label index="c_fileext">Vrsta</label>
+      <label index="c_tstamp">Datum</label>
+      <label index="c_rw">RW</label>
+      <label index="c__REF_">Ref</label>
+      <label index="files">datotek</label>
+      <label index="temp"/>
+      <label index="role_folder_temporary"/>
+      <label index="role_folder_recycler"/>
+      <label index="read"/>
+      <label index="recycler"/>
+      <label index="mlang_labels_tablabel">Seznam datotek v mapi</label>
+      <label index="mlang_labels_tabdescr">To je sistem za delo z datotekami. Z njim lahko dostopate do svojih datotek na strežniku. Lahko jih prenašate, kopirate, preimenujete ali izbrišete.</label>
+      <label index="mlang_tabs_tab">Seznam datotek</label>
+      <label index="write"/>
+      <label index="paramError"/>
+      <label index="targetNoDir"/>
+      <label index="localDriverFlexform_basePath"/>
+      <label index="localDriverFlexform_pathType"/>
+      <label index="localDriverFlexform_pathType_relative"/>
+      <label index="localDriverFlexform_pathType_absolute"/>
+      <label index="localDriverFlexform_caseSensitive"/>
+      <label index="storageNotBrowsableTitle"/>
+      <label index="storageNotBrowsableMessage"/>
+      <label index="folderNotFoundTitle"/>
+      <label index="folderNotFoundMessage"/>
+    </languageKey>
+  </data>
+</T3locallangExt>

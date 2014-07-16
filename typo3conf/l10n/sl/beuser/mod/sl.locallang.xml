@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="sl" type="array">
+      <label index="pageTitle"/>
+      <label index="path"/>
+      <label index="user"/>
+      <label index="group"/>
+      <label index="everybody"/>
+      <label index="thisUser"/>
+      <label index="mainGroup"/>
+      <label index="editLock"/>
+      <label index="noReadAccess"/>
+      <label index="live"/>
+      <label index="defaultDraft"/>
+      <label index="notAccessible"/>
+      <label index="compareUserSettings"/>
+      <label index="listUsersOnline"/>
+      <label index="backendUserAdministration"/>
+      <label index="filemounts"/>
+      <label index="webmounts"/>
+      <label index="defaultUploadPath"/>
+      <label index="mainUserGroup"/>
+      <label index="memberOfGroups"/>
+      <label index="pageTypesAccess"/>
+      <label index="selectTables"/>
+      <label index="modifyTables"/>
+      <label index="nonExcludeFields"/>
+      <label index="explicitAllowDeny"/>
+      <label index="limitToLanguages"/>
+      <label index="workspacePermissions"/>
+      <label index="workspaceMembership"/>
+      <label index="customOptions"/>
+      <label index="modules"/>
+      <label index="tsconfig"/>
+      <label index="tsconfigHL"/>
+      <label index="nonMountedReadablePages"/>
+      <label index="backToOverview"/>
+      <label index="userInfo"/>
+      <label index="groupBy"/>
+      <label index="update"/>
+      <label index="groupAndCompareUsers"/>
+      <label index="tooManyUsers"/>
+      <label index="canOnlyDisplay"/>
+      <label index="newUser"/>
+      <label index="usernames"/>
+      <label index="switchUserTo"/>
+      <label index="changeToMode"/>
+      <label index="switchBackMode"/>
+      <label index="cachedGrouplistsUpdated"/>
+      <label index="result"/>
+      <label index="showInformation"/>
+      <label index="sureToDelete"/>
+      <label index="delete"/>
+      <label index="timestamp"/>
+      <label index="host"/>
+      <label index="username"/>
+      <label index="whoIsOnline"/>
+    </languageKey>
+  </data>
+</T3locallangExt>

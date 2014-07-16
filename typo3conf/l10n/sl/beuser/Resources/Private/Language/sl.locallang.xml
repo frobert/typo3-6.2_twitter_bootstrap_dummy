@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="sl" type="array">
+      <label index="activeSessions"/>
+      <label index="userName"/>
+      <label index="realName"/>
+      <label index="lastAccess"/>
+      <label index="ipAddress"/>
+      <label index="backendUserListing"/>
+      <label index="email"/>
+      <label index="admin"/>
+      <label index="users"/>
+      <label index="yes"/>
+      <label index="no"/>
+      <label index="never"/>
+      <label index="disable"/>
+      <label index="startDateAndTime"/>
+      <label index="endDateAndTime"/>
+      <label index="lastLogin"/>
+      <label index="allowedLanguages"/>
+      <label index="dbMountPoints"/>
+      <label index="fileMounts"/>
+      <label index="disableIpLock"/>
+      <label index="compareBackendUsers"/>
+      <label index="compareUserList"/>
+      <label index="status"/>
+      <label index="both"/>
+      <label index="any"/>
+      <label index="adminOnly"/>
+      <label index="normalUserOnly"/>
+      <label index="activeOnly"/>
+      <label index="inactiveOnly"/>
+      <label index="loginBefore"/>
+      <label index="neverLoggedIn"/>
+      <label index="filter"/>
+      <label index="reallyLogout"/>
+      <label index="endSession"/>
+      <label index="backendUsers"/>
+      <label index="onlineUsers"/>
+      <label index="backendUserAdministration"/>
+      <label index="backendUserGroup"/>
+      <label index="backendUserGroups"/>
+      <label index="changeToMode"/>
+      <label index="switchBackMode"/>
+      <label index="confirm"/>
+      <label index="section.compare"/>
+      <label index="compare"/>
+    </languageKey>
+  </data>
+</T3locallangExt>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<T3locallangExt>
+  <data type="array">
+    <languageKey index="sl" type="array">
+      <label index="tt_content.CType_pi1">Uporabniška Prijava na Strani</label>
+      <label index="felogin_redirectPid">Preusmeritev na prijavno stran (felogin)</label>
+      <label index="felogin_forgotHash"/>
+      <label index="tt_content.pi_flexform.general_header">Splošna Glava</label>
+      <label index="tt_content.pi_flexform.general_message">Splošno Sporočilo</label>
+      <label index="tt_content.pi_flexform.redirect_header">Preusmeritvena Glava</label>
+      <label index="tt_content.pi_flexform.redirect_message">Preusmeritveno Sporočilo</label>
+      <label index="tt_content.pi_flexform.welcome_header">Dobrodošli Glava</label>
+      <label index="tt_content.pi_flexform.welcome_message">Dobrodošli Sporočilo</label>
+      <label index="tt_content.pi_flexform.success_header">Uspešna Prijava Glava</label>
+      <label index="tt_content.pi_flexform.success_message">Uspešna Prijava Sporočilo</label>
+      <label index="tt_content.pi_flexform.error_header">Napaka pri Prijavi Glava</label>
+      <label index="tt_content.pi_flexform.error_message">Napaka pri Prijavi Sporočilo</label>
+      <label index="tt_content.pi_flexform.status_header">Prikaz Statusa Glava</label>
+      <label index="tt_content.pi_flexform.status_message">Prikaz Statusa Sporočilo</label>
+      <label index="tt_content.pi_flexform.logout_header">Odjava Glava</label>
+      <label index="tt_content.pi_flexform.logout_message">Odjava Sporočilo</label>
+      <label index="tt_content.pi_flexform.forgot_header">Pozdabljeno Geslo Glava</label>
+      <label index="tt_content.pi_flexform.forgot_message">Pozabljeno Geslo Sporočilo</label>
+      <label index="tt_content.pi_flexform.sheet_general">Splošno</label>
+      <label index="tt_content.pi_flexform.sheet_redirect">Preusmeritve</label>
+      <label index="tt_content.pi_flexform.sheet_messages">Sporočila</label>
+      <label index="tt_content.pi_flexform.show_forgot_password">Prikaži povezavo za pozabljeno geslo</label>
+      <label index="tt_content.pi_flexform.show_permalogin">Prikaži možnost Zapomni si prijavo</label>
+      <label index="tt_content.pi_flexform.show_logoutFormAfterLogin">Prikaži odjavno obrazec po uspešni prijavi</label>
+      <label index="tt_content.pi_flexform.groupSelectmode">Način izbire FE skupine:</label>
+      <label index="tt_content.pi_flexform.groupSelectmode_showAll">Prikaži vse</label>
+      <label index="tt_content.pi_flexform.groupSelectmode_showSelected">Prikaži izbrano</label>
+      <label index="tt_content.pi_flexform.groupSelectmode_DontShowSelected">Ne prikaži izbranih</label>
+      <label index="tt_content.pi_flexform.groupSelectmode_FromTS">(iz Typoscript)</label>
+      <label index="tt_content.pi_flexform.groupSelection">Izbira FE skupin:</label>
+      <label index="tt_content.pi_flexform.groupSelection_noGroup">ni skupine</label>
+      <label index="tt_content.pi_flexform.field_manualOrder">Uporaba spodnjih seznamov polj:</label>
+      <label index="tt_content.pi_flexform.field_orderList">Uporabniška Polja/seznami:</label>
+      <label index="tt_content.pi_flexform.field_orderDetails">Uporabniška polja/podrobnosti:</label>
+      <label index="tt_content.pi_flexform.redirectMode">Način Preusmeritve</label>
+      <label index="tt_content.pi_flexform.redirectMode.I.0">Definirano z uporabniško skupino</label>
+      <label index="tt_content.pi_flexform.redirectMode.I.1">Definirano z uporabniškim zapisom</label>
+      <label index="tt_content.pi_flexform.redirectMode.I.2">Po Prijavi (TS ali Flexform)</label>
+      <label index="tt_content.pi_flexform.redirectMode.I.3">Po Odjavi (TS ali Flexform)</label>
+      <label index="tt_content.pi_flexform.redirectMode.I.4">Po Napaki pri Prijavi (TS ali Flexform)</label>
+      <label index="tt_content.pi_flexform.redirectMode.I.5">Definirano z GET/POST parametri</label>
+      <label index="tt_content.pi_flexform.redirectMode.I.6">Definirano z Napotiteljem</label>
+      <label index="tt_content.pi_flexform.redirectMode.I.7">Definirano z Domenskimi Zapisi</label>
+      <label index="tt_content.pi_flexform.redirectFirstMethod">Uporabi prvi podprti način iz izbora</label>
+      <label index="tt_content.pi_flexform.redirectDisable">Onemogoči Preusmeritev</label>
+      <label index="tt_content.pi_flexform.redirectPageLogin">Po uspešni prijavi preusmeri na stran</label>
+      <label index="tt_content.pi_flexform.redirectPageLoginError">Po neuspešni prijavi preusmeri na stran</label>
+      <label index="tt_content.pi_flexform.redirectPageLogout">Po odjavi preusmeri na stran</label>
+      <label index="tt_content.pi_flexform.template_file">Datoteka z predlogo</label>
+      <label index="tt_content.pi_flexform.user_storage">Stran shranjevanja uporabnikov</label>
+    </languageKey>
+  </data>
+</T3locallangExt>
