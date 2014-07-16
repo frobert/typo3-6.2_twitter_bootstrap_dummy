@@ -4,12 +4,12 @@ TYPO3 Twitter bootstrap 3.2 dummy
 TYPO3 Twitter bootstrap 3.2 dummy
 
 <b>Acces data:</b><br>
-Username: admin<br>
-Password: password<br>
-Install tool password: password
+Username: <b>admin</b><br>
+Password: <b>password</b><br>
+Install tool password: <b>password</b>
 
 <b>Extensions</b>
-- autometa (modified for TYPO3 6.2)
+- autometa (modified for TYPO3 6.2, TODO: contact author)
 - less
 - vobi_fce (Custom FCEs)
 - flux
@@ -27,3 +27,8 @@ Move to production:<br>
 Add new FCEs:<br>
 - Add new HTML templates inside EXT:vobi_fce/Resources/Private/Elements/
 - see http://fluidtypo3.org/
+
+TypoScript:<br>
+- TypoScript is saved in files and included in root page template
+- see fileadmin/typoscript/ folder
+- IMPORTANT! Don't forget to disable public access to *.ts files on your web server
