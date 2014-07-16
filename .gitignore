@@ -2,7 +2,7 @@ typo3temp
 typo3
 typo3_src
 index.php
-uploads/tx_extensionbuilder/baskups
+uploads/tx_extensionbuilder/backups
 typo3conf/deprecation*.log
 fileadmin/_processed_
 fileadmin/templates/css/*.css
