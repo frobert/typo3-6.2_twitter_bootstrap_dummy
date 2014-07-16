@@ -22,7 +22,7 @@ Install tool password: <b>password</b>
 <b>Details</b><br>
 Move to production:<br>
 - Enable production env in Install Tool area
-- Open constant editor in "Storage: TS" folder template and change constant data to enable production
+- Open TS constant editor in "Storage: TS" folder template and change constant data to enable production
 
 Add new FCEs:<br>
 - Add new HTML templates inside EXT:vobi_fce/Resources/Private/Elements/
