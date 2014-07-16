@@ -53,3 +53,6 @@ config {
 //to clean up TYPO3 wraps
 tt_content.stdWrap.innerWrap >
 lib.stdheader.stdWrap.dataWrap >
+
+//responsive images
+tt_content.image.20.1.params = class="img-responsive"

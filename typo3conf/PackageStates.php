@@ -475,6 +475,60 @@ return array (
       array (
       ),
     ),
+    'autometa' => 
+    array (
+      'state' => 'active',
+      'packagePath' => 'typo3conf/ext/autometa/',
+      'classesPath' => 'Classes/',
+      'suggestions' => 
+      array (
+      ),
+    ),
+    'sourceopt' => 
+    array (
+      'state' => 'active',
+      'packagePath' => 'typo3conf/ext/sourceopt/',
+      'classesPath' => 'Classes/',
+      'suggestions' => 
+      array (
+      ),
+    ),
+    'less' => 
+    array (
+      'state' => 'active',
+      'packagePath' => 'typo3conf/ext/less/',
+      'classesPath' => 'Classes/',
+      'suggestions' => 
+      array (
+      ),
+    ),
+    'realurl' => 
+    array (
+      'state' => 'active',
+      'packagePath' => 'typo3conf/ext/realurl/',
+      'classesPath' => 'Classes/',
+      'suggestions' => 
+      array (
+      ),
+    ),
+    'extension_builder' => 
+    array (
+      'state' => 'active',
+      'packagePath' => 'typo3conf/ext/extension_builder/',
+      'classesPath' => 'Classes/',
+      'suggestions' => 
+      array (
+      ),
+    ),
+    'vobi_fce' => 
+    array (
+      'state' => 'active',
+      'packagePath' => 'typo3conf/ext/vobi_fce/',
+      'classesPath' => 'Classes/',
+      'suggestions' => 
+      array (
+      ),
+    ),
     'vhs' => 
     array (
       'manifestPath' => '',
@@ -518,60 +572,6 @@ return array (
       'suggestions' => 
       array (
         0 => 'fluidcontent_bootstrap',
-      ),
-    ),
-    'vobi_fce' => 
-    array (
-      'state' => 'active',
-      'packagePath' => 'typo3conf/ext/vobi_fce/',
-      'classesPath' => 'Classes/',
-      'suggestions' => 
-      array (
-      ),
-    ),
-    'extension_builder' => 
-    array (
-      'state' => 'active',
-      'packagePath' => 'typo3conf/ext/extension_builder/',
-      'classesPath' => 'Classes/',
-      'suggestions' => 
-      array (
-      ),
-    ),
-    'realurl' => 
-    array (
-      'state' => 'active',
-      'packagePath' => 'typo3conf/ext/realurl/',
-      'classesPath' => 'Classes/',
-      'suggestions' => 
-      array (
-      ),
-    ),
-    'less' => 
-    array (
-      'state' => 'active',
-      'packagePath' => 'typo3conf/ext/less/',
-      'classesPath' => 'Classes/',
-      'suggestions' => 
-      array (
-      ),
-    ),
-    'sourceopt' => 
-    array (
-      'state' => 'active',
-      'packagePath' => 'typo3conf/ext/sourceopt/',
-      'classesPath' => 'Classes/',
-      'suggestions' => 
-      array (
-      ),
-    ),
-    'autometa' => 
-    array (
-      'state' => 'inactive',
-      'packagePath' => 'typo3conf/ext/autometa/',
-      'classesPath' => 'Classes/',
-      'suggestions' => 
-      array (
       ),
     ),
     'about' => 
