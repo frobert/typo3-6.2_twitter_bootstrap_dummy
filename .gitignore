@@ -4,3 +4,5 @@ typo3_src
 index.php
 uploads/tx_extensionbuilder/baskups
 typo3conf/deprecation*.log
+fileadmin/_processed_
+fileadmin/templates/css/*.css
