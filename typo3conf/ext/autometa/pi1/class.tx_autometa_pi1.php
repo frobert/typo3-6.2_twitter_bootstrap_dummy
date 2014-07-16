@@ -22,8 +22,10 @@
 *  This copyright notice MUST APPEAR in all copies of the script!
 ***************************************************************/
 
-require_once (PATH_tslib . 'class.tslib_pibase.php');
-require_once (PATH_tslib . 'class.tslib_content.php');
+if (!class_exists('tslib_pibase')) {
+  require_once (PATH_tslib . 'class.tslib_pibase.php');
+  require_once (PATH_tslib . 'class.tslib_content.php');
+}
 
 class tx_autometa_pi1 extends tslib_pibase {
 
