@@ -5,4 +5,6 @@ index.php
 uploads/tx_extensionbuilder/backups
 typo3conf/deprecation*.log
 fileadmin/_processed_
+fileadmin/_temp_
+fileadmin/user_upload/_temp_
 fileadmin/templates/css/*.css
